@@ -1,3 +1,4 @@
+#njeriedith350@gmail.com
 # softwareEngineering
 #House&Rentals
 #project description
